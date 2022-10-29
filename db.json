@@ -7,7 +7,9 @@
       "location": "Murcia, Spain",
       "bedrooms": 5,
       "bathrooms": 4,
-      "price": "550.000"
+      "price": "550000",
+      "date_added": "2022-10-28T16:09:00Z",
+      "url": "https://diosasluxuryvillas.com/wp-content/uploads/2020/07/diosasluxuryvillas_kefallonia_villa_outside13.jpg"
     },
     {
       "id": 2,
@@ -16,7 +18,9 @@
       "location": "Cadiz, Spain",
       "bedrooms": 2,
       "bathrooms": 2,
-      "price": "150.000"
+      "price": "150000",
+      "date_added": "2022-10-29T13:05:00Z",
+      "url": "https://www.aveliving.com/AVE/media/Property_Images/Florham%20Park/hero/flor-apt-living-(2)-hero.jpg?ext=.jpg"
     },
     {
       "id": 3,
@@ -25,7 +29,9 @@
       "location": "Madrid, Spain",
       "bedrooms": 3,
       "bathrooms": 2,
-      "price": "200.000"
+      "price": "200000",
+      "date_added": "2022-10-30T17:40:00Z",
+      "url": "https://www.aveliving.com/AVE/media/Property_Images/Florham%20Park/hero/flor-apt-kitchen-(1)-hero.jpg?ext=.jpg"
     },
     {
       "id": 4,
@@ -34,7 +40,9 @@
       "location": "Malaga, Spain",
       "bedrooms": 4,
       "bathrooms": 3,
-      "price": "250.000"
+      "price": "250000",
+      "date_added": "2022-10-30T16:30:00Z",
+      "url": "https://www.brightonhomes.net.au/sites/default/files/styles/blog_hero_banner/public/townhouse-living.jpg?itok=38vrV2_E"
     },
     {
       "id": 5,
@@ -43,7 +51,9 @@
       "location": "Barcelona, Spain",
       "bedrooms": 4,
       "bathrooms": 3,
-      "price": "300.000"
+      "price": "300000",
+      "date_added": "2022-10-30T15:08:00Z",
+      "url": "https://theestatekl.com.my/wp-content/uploads/2022/07/reasons-to-choose-luxury-villas-for-your-next-staycation.jpg"
     },
     {
       "id": 6,
@@ -52,7 +62,9 @@
       "location": "Granada, Spain",
       "bedrooms": 3,
       "bathrooms": 2,
-      "price": "220.000"
+      "price": "220000",
+      "date_added": "2022-10-30T11:06:00Z",
+      "url": "https://www.ioiproperties.com.my/sites/default/files/styles/og_image/public/2019-10/Ayden_cover_compressed.jpg?itok=UoX2YWWy"
     }
   ]
 }
