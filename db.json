@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Luxe villa in Alicante",
+      "type": "villa",
+      "location": "Murcia, Spain",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "price": "550.000"
+    },
+    {
+      "id": 2,
+      "title": "Apartment in Cadiz",
+      "type": "apartment",
+      "location": "Cadiz, Spain",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "price": "150.000"
+    },
+    {
+      "id": 3,
+      "title": "Apartment in Madrid",
+      "type": "apartment",
+      "location": "Madrid, Spain",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "price": "200.000"
+    },
+    {
+      "id": 4,
+      "title": "Townhouse in Malaga",
+      "type": "townhouse",
+      "location": "Malaga, Spain",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "price": "250.000"
+    },
+    {
+      "id": 5,
+      "title": "Luxe villa in Barcelona",
+      "type": "villa",
+      "location": "Barcelona, Spain",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "price": "300.000"
+    },
+    {
+      "id": 6,
+      "title": "Townhouse in Granada",
+      "type": "townhouse",
+      "location": "Granada, Spain",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "price": "220.000"
+    }
+  ]
+}
